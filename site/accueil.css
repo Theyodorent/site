@@ -1,0 +1,68 @@
+.hui{
+    font-family: "Red Hat Display", sans-serif;
+    font-size: 16px;
+}
+
+.c{
+    font-size: 80px;
+}
+.a{
+    width: 1575px;
+}
+
+.box{
+    width: 78px;
+    height: 80px;
+}
+
+.box1{
+    width: 94px;
+    height: 80px;
+}
+
+.box2{
+    width: 135px;
+    height: 80px;
+}
+
+.box3{
+    width: 60px;
+    height: 80px;
+}
+
+.fuck{
+    width: 216px;
+    height: 48px;
+}
+
+.logo{
+    width: 25px;
+    height: 25px;
+}
+
+.but{
+    background-color: pink ;
+    width: 300px;
+    height: 45px;
+    border-radius: 45px;
+}
+
+.DL{
+    width: 800px;
+    height: 80px;
+}
+
+.vide{
+    width: 75px;
+    height: 80px;
+}
+
+.petit{
+    width: 10px;
+}
+
+.b{
+    background-image: url(image/Moonleap_Background_69fd72d456.webp);
+    width: auto;
+    height: 1120px;
+}
